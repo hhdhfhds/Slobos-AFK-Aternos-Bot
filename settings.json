@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "botofAMHS",
+    "username": "chalol78",
     "password": "Mahadispro",
     "type": "offline"
   },
   "server": {
     "ip": "AMHS_SMP.aternos.me",
     "port": 21098,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
